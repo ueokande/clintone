@@ -1,0 +1,2 @@
+# clintone
+kintone CLI client
